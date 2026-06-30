@@ -1,0 +1,75 @@
+###############################################
+###### SevTech: Ages Custom Advancements ######
+###############################################
+# Stage 0
+advancements.stage0.abyssalbiome.title=Увійдіть до Темних Земель
+advancements.stage0.abyssalbiome.description=Знайдіть і увійдіть в темний біом з моду "Abyssalcraft". Ці біоми існують в холодніших за температурою територіях. Світ налаштований в логічній температурній мапі, що означає, що теплі та холодні біоми можуть бути досягнені мандруючі на Північ, або Південь
+
+advancements.stage0.abyssalgem.title=Темні Дорогоцінні Камені (Dark Gems)
+advancements.stage0.abyssalgem.description=Добудьте Тіньовий Дорогоцінний Камень (Dark Gem) з Тіньового Створіння, що проживає в темних землях. Менші створіння мають менші дорогоцінні каміння, водночас з більших, небезпечніших Тіньових Створінь випадають повні дорогоцінні камені
+
+advancements.stage0.atlas.title=Втрачений, але Тепер Здобутий
+advancements.stage0.atlas.description=Купіть Античний Атлас (Antique Atlas) карту у Картографа, або Бібліотекара
+
+advancements.stage0.baykok.title=Моторошна Битва з Босом
+advancements.stage0.baykok.description=Прикличте боса Байкока (Baykok) через Тотемну Церемонію (Totemic Ceremony) і подолайте його, щоб отримати його потужний лук, таким чином відкривши далекобійну зброю раніше
+
+advancements.stage0.buffalo.title=Стародавні Тварини
+advancements.stage0.buffalo.description=Буйвол (Buffalo) надає цінні ресурси для полювальників. Використайте Тотемну Церемонію (Totemic Ceremony), щоб призвати їх. Зберіть їхню Шкуру та Зуби. Зверніться до Тотемопедії (Totempedia) для більшої інформації
+
+advancements.stage0.charcoal.title=Зжимання Своєї Удачі
+advancements.stage0.charcoal.description=Зкомпресуйте Деревне Вугілля в більший блок, використовуючи Прес Кінської Сили
+
+advancements.stage0.chestupgrade.title=Оновлення Сховища
+advancements.stage0.chestupgrade.description=Позбудьтеся своєї старої дерев'яної коробки і покращіть її до кращої Примітивної Скрині (Primal Chest)!
+
+advancements.stage0.collectplank.title=На Рубальний Блок
+advancements.stage0.collectplank.description=Використайте колоду для карфту Блоку для Рубання. Поставте Колоду, або Дошку на Блок для Рубання і використайте Топор, щоб порубати їх на Дошки, або Палиці
+
+advancements.stage0.farmland.title=Навчить Людину Фермерства
+advancements.stage0.farmland.description=Вивчить базу Фермерства від Сільського Фермера купивши у нього Рілля. Рілля не може бути зоране за допомогою матики в Ері 0, вам потрібно буде скрафтити і поставити її біля води
+
+advancements.stage0.fertility.title=Обряд Весни
+advancements.stage0.fertility.description=Коли Обряд Весни (Rite of Spring) виконано, тварини поблизу починають плодитися, але тільки якщо ви кинете їжу на землю поблизу тотему
+
+advancements.stage0.fiber.title=Волокнева Дієта
+advancements.stage0.fiber.description=Щоб почати, вам потрібно буде зібрати Рослинні Волокна (Plant Fiber) ламаючи високу траву. З'єднайте 3 ращом, щоб отримати Рослинну Мотузку (Plant Twine). Палиці можуть бути знайдені на підлозі, або від ломання листя
+
+advancements.stage0.fire.title=Я ЗРОБИВ ВОГОНЬ!
+advancements.stage0.fire.description=Тримайте Вогняну Палицю (Fire Stick) в кожній руці і натисніть на блок, щоб утворити вогонь
+
+advancements.stage0.firepit.title=Вогонь!
+advancements.stage0.firepit.description=Використайте декілька камінців, мотузку, і палиці, щоб створити багаття (fire pit). Використовуйте типічні горючі предмети, щоб запалити його і вставити предмети для приготування
+
+advancements.stage0.firstbreak.title=Печерна Людина Ненавидить Дерева!
+advancements.stage0.firstbreak.description=Биття дерев руками це боляче, і ви не отримаєте дерево від використання своїх рук! Використовуйте відповідний інструмент
+
+advancements.stage0.firstchest.title=Місце де Я можу Покласти Свої Речі
+advancements.stage0.firstchest.description=З'єднайте дерево разом, щоб утворити скриню для ваших речей
+
+advancements.stage0.firsttool.title=Дуже Небезпечно Йти Самому
+advancements.stage0.firsttool.description=Створіть Крем'яну Сокиру (Flint Hatchet) для рубання дерев
+
+advancements.stage0.fish.title=Рибальство зі Списом
+advancements.stage0.fish.description=Використайте свій Спис (Spear), або інші інструменти для полювання за смачною їжею!
+
+advancements.stage0.flamehopper.title=Смажена на Вогні Смакота
+advancements.stage0.flamehopper.description=Лійка, що переміщує предмети і зберігає верхні блоки гарячими
+
+advancements.stage0.flintknapp.title=Загострення Кременю
+advancements.stage0.flintknapp.description=Клікніть лівою кнопкою кременем по твердому камню, щоб створити Оббитий кремінь (Flaked Flint). Повторюючи цю дію з Оббитим кремнем (Flaked Flint) дасть вам Кременеву Вістрю (Flaked Flint Point)
+
+advancements.stage0.fluidbladder.title=Сечовий міхур, ніж нічого
+advancements.stage0.fluidbladder.description=Без Відор! Використовуйте Сечовий Міхур для Рідин (Fluid Bladder), для крафтів
+
+advancements.stage0.gear.title=Налаштовані на Пропорції
+advancements.stage0.gear.description=Використайте свої знання колеса, щоб створити шестерню!
+
+advancements.stage0.grill.title=Гаряча Гриль!
+advancements.stage0.grill.description=Покращте ваше багаття з чимось більш цікавим. Грилі треба джерело тепла знизу нього, таке як вогонь, щоб готувати належним чином
+
+advancements.stage0.handgrind.title=Подроби Це
+advancements.stage0.handgrind.description=Ручний Подрібнювач (Hand Grindstone) зовсім не швидкий, але він дозволить вам подрібнювати речі легко
+
+advancements.stage0.horsechopper.title=Рубати! Рубати! Рубати!
+advancements.stage0.horsechopper.description=Більше ніякого колоння дерева руками! Поставте Пеньок на Конячій Силі (Horse Power Chopper), прив'яжіть коня за допомогою поводка, і вставте предмети для автоматичного колоння
