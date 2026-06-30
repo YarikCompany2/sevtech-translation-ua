@@ -1,2 +1,2 @@
 # sevtech-translation-ua
-The ukrainian translation for modpack sevtech: ages
+The ukrainian resource pack translation for modpack sevtech: ages
